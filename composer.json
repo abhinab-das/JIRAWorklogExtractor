@@ -1,0 +1,5 @@
+{
+    "name": "vendor/jiraextractor",
+    "description": "JIRA Worklog Extractor",
+    "require": {}
+}
